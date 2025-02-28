@@ -1,4 +1,4 @@
-package com.example.keycloak.serice;
+package com.example.keycloak.service;
 
 import com.example.keycloak.model.UserRequestDTO;
 import java.util.Collections;

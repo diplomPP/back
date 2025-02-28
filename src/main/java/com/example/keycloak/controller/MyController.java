@@ -1,7 +1,7 @@
 package com.example.keycloak.controller;
 
 import com.example.keycloak.model.UserRequestDTO;
-import com.example.keycloak.serice.KeycloakService;
+import com.example.keycloak.service.KeycloakService;
 import jakarta.annotation.security.RolesAllowed;
 import java.security.Principal;
 import lombok.RequiredArgsConstructor;
